@@ -4,4 +4,3 @@
 <br />1.1x20x25弹簧
 <br />2.1x30x40弹簧
 <br />3.M4螺母
-<br />![](https://github.com/littlemo0319/GETUI/blob/main/image/1.jpg)
